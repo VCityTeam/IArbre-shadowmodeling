@@ -1,7 +1,7 @@
 # 3D Urban Shadow Modeling from LiDAR Point Clouds
 
 - [Soure code](./Code/README.md)
-- [Repport](./Report_Presentation/Karima_OUADAH_rapport_de_stage.pdf)
+- [Report](./Report_Presentation/Karima_OUADAH_rapport_de_stage.pdf)
 
 The work will involve developing a complete processing pipeline to transform massive LiDAR point clouds into a 3D model suitable for the 
 computation and visualization of urban shadows.
